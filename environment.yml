@@ -1,0 +1,8 @@
+name: dsci522
+channels:
+  - conda-forge
+dependencies:
+  - python[version='>=3.10']
+  - pandas=2.1.4
+  - conda-lock
+prefix: /Users/jacksonlu/miniforge3/envs/dsci522
